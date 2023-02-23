@@ -1,8 +1,8 @@
 import { Route, Routes, Link } from 'react-router-dom';
 import './App.css';
-import UseRefCase from './UseRefCase/';
-import UseRefToPersistState from './UseRefToPersistState/';
-import UseRefOnElement from './UseRefOnElement/';
+import UseRefCase from './UseRefCase';
+import UseRefToPersistState from './UseRefToPersistState';
+import UseRefOnElement from './UseRefOnElement';
 
 function App() {
   return (
