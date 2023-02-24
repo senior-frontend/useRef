@@ -12,6 +12,9 @@
   margin: 0 auto;
   width: 30%;
 }
+.mc input {
+  width: 65%;
+}
 .mc_btns {
   width: 65%;
   display: flex;
