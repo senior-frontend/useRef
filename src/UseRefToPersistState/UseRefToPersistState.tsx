@@ -6,7 +6,7 @@ const UseMemoExample = () => {
   // const renderCount = useRef(0);
 
   useEffect(() => {
-    setRenderCount((prev) => prev + 1);
+    // setRenderCount((prev) => prev + 1);
     // renderCount.current++;
   });
 
